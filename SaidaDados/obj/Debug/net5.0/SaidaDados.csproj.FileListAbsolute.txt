@@ -1,0 +1,16 @@
+C:\Users\Caíque\Documents\Projetos\SaidaDados\bin\Debug\net5.0\SaidaDados.exe
+C:\Users\Caíque\Documents\Projetos\SaidaDados\bin\Debug\net5.0\SaidaDados.deps.json
+C:\Users\Caíque\Documents\Projetos\SaidaDados\bin\Debug\net5.0\SaidaDados.runtimeconfig.json
+C:\Users\Caíque\Documents\Projetos\SaidaDados\bin\Debug\net5.0\SaidaDados.runtimeconfig.dev.json
+C:\Users\Caíque\Documents\Projetos\SaidaDados\bin\Debug\net5.0\SaidaDados.dll
+C:\Users\Caíque\Documents\Projetos\SaidaDados\bin\Debug\net5.0\ref\SaidaDados.dll
+C:\Users\Caíque\Documents\Projetos\SaidaDados\bin\Debug\net5.0\SaidaDados.pdb
+C:\Users\Caíque\Documents\Projetos\SaidaDados\obj\Debug\net5.0\SaidaDados.csprojAssemblyReference.cache
+C:\Users\Caíque\Documents\Projetos\SaidaDados\obj\Debug\net5.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caíque\Documents\Projetos\SaidaDados\obj\Debug\net5.0\SaidaDados.AssemblyInfoInputs.cache
+C:\Users\Caíque\Documents\Projetos\SaidaDados\obj\Debug\net5.0\SaidaDados.AssemblyInfo.cs
+C:\Users\Caíque\Documents\Projetos\SaidaDados\obj\Debug\net5.0\SaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\Caíque\Documents\Projetos\SaidaDados\obj\Debug\net5.0\SaidaDados.dll
+C:\Users\Caíque\Documents\Projetos\SaidaDados\obj\Debug\net5.0\ref\SaidaDados.dll
+C:\Users\Caíque\Documents\Projetos\SaidaDados\obj\Debug\net5.0\SaidaDados.pdb
+C:\Users\Caíque\Documents\Projetos\SaidaDados\obj\Debug\net5.0\SaidaDados.genruntimeconfig.cache
