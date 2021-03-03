@@ -1,0 +1,16 @@
+C:\Users\Caíque\Documents\Projetos\EntradaDados\bin\Debug\net5.0\EntradaDados.exe
+C:\Users\Caíque\Documents\Projetos\EntradaDados\bin\Debug\net5.0\EntradaDados.deps.json
+C:\Users\Caíque\Documents\Projetos\EntradaDados\bin\Debug\net5.0\EntradaDados.runtimeconfig.json
+C:\Users\Caíque\Documents\Projetos\EntradaDados\bin\Debug\net5.0\EntradaDados.runtimeconfig.dev.json
+C:\Users\Caíque\Documents\Projetos\EntradaDados\bin\Debug\net5.0\EntradaDados.dll
+C:\Users\Caíque\Documents\Projetos\EntradaDados\bin\Debug\net5.0\ref\EntradaDados.dll
+C:\Users\Caíque\Documents\Projetos\EntradaDados\bin\Debug\net5.0\EntradaDados.pdb
+C:\Users\Caíque\Documents\Projetos\EntradaDados\obj\Debug\net5.0\EntradaDados.csprojAssemblyReference.cache
+C:\Users\Caíque\Documents\Projetos\EntradaDados\obj\Debug\net5.0\EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caíque\Documents\Projetos\EntradaDados\obj\Debug\net5.0\EntradaDados.AssemblyInfoInputs.cache
+C:\Users\Caíque\Documents\Projetos\EntradaDados\obj\Debug\net5.0\EntradaDados.AssemblyInfo.cs
+C:\Users\Caíque\Documents\Projetos\EntradaDados\obj\Debug\net5.0\EntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\Caíque\Documents\Projetos\EntradaDados\obj\Debug\net5.0\EntradaDados.dll
+C:\Users\Caíque\Documents\Projetos\EntradaDados\obj\Debug\net5.0\ref\EntradaDados.dll
+C:\Users\Caíque\Documents\Projetos\EntradaDados\obj\Debug\net5.0\EntradaDados.pdb
+C:\Users\Caíque\Documents\Projetos\EntradaDados\obj\Debug\net5.0\EntradaDados.genruntimeconfig.cache
