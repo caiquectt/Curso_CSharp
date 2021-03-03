@@ -1,0 +1,16 @@
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\obj\Debug\net5.0\Exe2.csprojAssemblyReference.cache
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\obj\Debug\net5.0\Exe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\obj\Debug\net5.0\Exe2.AssemblyInfoInputs.cache
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\obj\Debug\net5.0\Exe2.AssemblyInfo.cs
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\obj\Debug\net5.0\Exe2.csproj.CoreCompileInputs.cache
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\bin\Debug\net5.0\Exe2.exe
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\bin\Debug\net5.0\Exe2.deps.json
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\bin\Debug\net5.0\Exe2.runtimeconfig.json
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\bin\Debug\net5.0\Exe2.runtimeconfig.dev.json
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\bin\Debug\net5.0\Exe2.dll
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\bin\Debug\net5.0\ref\Exe2.dll
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\bin\Debug\net5.0\Exe2.pdb
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\obj\Debug\net5.0\Exe2.dll
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\obj\Debug\net5.0\ref\Exe2.dll
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\obj\Debug\net5.0\Exe2.pdb
+C:\Users\Caíque\Documents\Projetos\Estrutura Condicional\Exe2\obj\Debug\net5.0\Exe2.genruntimeconfig.cache
